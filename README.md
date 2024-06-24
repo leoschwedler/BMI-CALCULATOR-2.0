@@ -15,5 +15,4 @@ Designed user interface for seamless user interaction.
 Tested and optimized functionality for Android devices.
 
 📚 Study Focus: Data Passing Between Activities
-The primary focus of this project is to study the passage of data between activities in Android applications, enhancing knowledge of intent handling and data validation.![scren1](https://github.com/leoschwedler/BMI-CALCULATOR-2.0/assets/77402907/180937be-3eb7-47c4-b091-91ff932ce601)
-
+The primary focus of this project is to study the passage of data between activities in Android applications, enhancing knowledge of intent handling and data validation.
